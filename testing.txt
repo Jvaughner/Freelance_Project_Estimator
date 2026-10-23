@@ -1,0 +1,14 @@
+Test Case 1
+    Medium project with no discount.
+
+Test Case 2
+    Large project with a discount.
+
+Test Case 3
+    Small project with zero material cost.
+
+    Document:
+
+    Input values
+    Expected results
+    Actual results
